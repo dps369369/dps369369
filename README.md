@@ -32,11 +32,14 @@ I'm always experimenting with new technologies, building projects, and expanding
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dps369369&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dps369369&layout=compact&theme=default) |
+<a href="https://github.com/dps369369/github-stats-transparent">
+
+![Stats Overview](https://raw.githubusercontent.com/dps369369/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/dps369369/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 ------
 

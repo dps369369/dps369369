@@ -12,8 +12,6 @@ I'm always experimenting with new technologies, building projects, and expanding
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### **Frontend**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
@@ -35,8 +33,7 @@ I'm always experimenting with new technologies, building projects, and expanding
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dps369369&show_icons=true&theme=default&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dps369369&layout=compact&theme=default&hide_border=true" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dps369369&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dps369369&layout=compact&theme=default)
 

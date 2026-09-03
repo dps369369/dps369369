@@ -28,8 +28,8 @@ I'm always experimenting with new technologies, building projects, and expanding
 
 ## 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:debpriosarker11@gmail.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dps369369)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:debpriosarker11@gmail.com)
 ---
 
 ### 📊 GitHub Stats

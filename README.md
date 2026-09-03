@@ -32,14 +32,41 @@ I'm always experimenting with new technologies, building projects, and expanding
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:debpriosarker11@gmail.com)
 ---
 
-### 📊 GitHub Stats
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
 
 <a href="https://github.com/dps369369/github-stats-transparent">
-
-![Stats Overview](https://raw.githubusercontent.com/dps369369/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/dps369369/github-stats-transparent/output/generated/languages.svg)
-
+  <img
+    width="390"
+    src="https://raw.githubusercontent.com/dps369369/github-stats-transparent/output/generated/overview.svg"
+    alt="GitHub Stats"
+  />
 </a>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img
+    width="390"
+    src="https://streak-stats.demolab.com/?user=dps369369&theme=react&hide_border=true"
+    alt="GitHub Streak"
+  />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/dps369369/github-stats-transparent">
+  <img
+    height="200"
+    src="https://raw.githubusercontent.com/dps369369/github-stats-transparent/output/generated/languages.svg"
+    alt="Most Used Languages"
+  />
+</a>
+
+</p>
 
 ------
 

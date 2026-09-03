@@ -31,9 +31,10 @@ I'm always experimenting with new technologies, building projects, and expanding
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:debpriosarker11@gmail.com)
 
 ---
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dps369369&show_icons=true&theme=default)
+## 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dps369369&layout=compact&theme=default)
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dps369369&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dps369369&layout=compact&theme=default) |
 

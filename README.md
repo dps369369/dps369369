@@ -38,3 +38,16 @@ I'm always experimenting with new technologies, building projects, and expanding
 | :---: | :---: |
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dps369369&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dps369369&layout=compact&theme=default) |
 
+------
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/dps369369/dps369369/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+

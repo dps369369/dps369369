@@ -1,7 +1,6 @@
 # Hi 👋, I'm Debprio Sarker
 
-### 🔭 I build and experiment with web technologies
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=false&vCenter=false&width=600&lines=I+build+and+experiment+with+web+technologies;Exploring+JavaScript%2C+TypeScript+%26+React;Aspiring+Full-Stack+Web+Developer)](https://git.io/typing-svg)
 ---
 
 ## 👨‍💻 About Me

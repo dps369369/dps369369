@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a curious human who is interested in understanding how web applications are built. I'm currently exploring **JavaScript**, **TypeScript**, and **React**, while aspiring to become a **full-stack web developer**.
+I'm a curious human who is interested in understanding how web applications are built.
 I'm always experimenting with new technologies, building projects, and expanding my understanding of web development.
 
 ---

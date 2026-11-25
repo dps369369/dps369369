@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 I'm a curious human who is interested in understanding how web applications are built.
-I'm always experimenting with new technologies, building projects, and expanding my understanding of web development.
+I'm always experimenting with new technologies, building projects, and expanding my understanding of web development. yeahh yeahh 
 
 ---
 
